@@ -1,0 +1,11 @@
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\bin\Debug\String obfuscation.exe.config
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\bin\Debug\String obfuscation.exe
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\bin\Debug\String obfuscation.pdb
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\obj\Debug\String obfuscation.csproj.AssemblyReference.cache
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\obj\Debug\String obfuscation.csproj.CoreCompileInputs.cache
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\obj\Debug\String obfuscation.exe
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\obj\Debug\String obfuscation.pdb
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\bin\Debug\dnlib.dll
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\bin\Debug\dnlib.xml
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\obj\Debug\String o.3189CEA7.Up2Date
+C:\Users\ezK2o\source\repos\String obfuscation\String obfuscation\bin\Debug\Colorful.Console.dll
